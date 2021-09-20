@@ -1,2 +1,2 @@
 # MyBooks
-Litte site just to test Django and Github
+Little site just to test Django and Github
