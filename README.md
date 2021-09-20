@@ -1,2 +1,2 @@
 # MyBooks
-Sitezinho de Django pra poder testar framework
+Little site just to test Django and Github
